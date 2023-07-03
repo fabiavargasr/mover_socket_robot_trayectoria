@@ -32,6 +32,15 @@ para intalar
 
 para ejecutar
 
+primero mover manualmente el robot hasta que en la pantalla del robot muestre.
+                x = -0.12114
+                y = -0.21764
+                z = 0.40
+                rx = deg2rad(2.572)
+                ry = deg2rad(0.031)
+                rz = deg2rad(-0.105)
+
+
 
 t1:
 
